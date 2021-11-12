@@ -889,27 +889,27 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"TODO"
+         "value":"Credits: WorkAdventure \n https:\/\/workadventu.re"
         }, 
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"TODO"
+         "value":"Map for dev event of SOGETI"
         }, 
         {
          "name":"mapImage",
          "type":"string",
-         "value":"map.png"
+         "value":"beach.png"
         }, 
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/thecodingmachine.github.io\/workadventure-map-starter-kit\/map.json"
+         "value":"TODO"
         }, 
         {
          "name":"mapName",
          "type":"string",
-         "value":"TODO"
+         "value":"Beach"
         }, 
         {
          "name":"script",
