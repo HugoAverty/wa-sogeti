@@ -1739,7 +1739,7 @@
         {
          "columns":16,
          "firstgid":23581,
-         "image":"..\/..\/x_Default Template\/maps-resources-master\/tilesets\/Celiana-interiors-3.png",
+         "image":"src\/assets\/Celiana-interiors-3.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1752,7 +1752,7 @@
         {
          "columns":16,
          "firstgid":23837,
-         "image":"..\/..\/x_Default Template\/maps-resources-master\/tilesets\/Celiana-interiors-4.png",
+         "image":"src\/assets\/Celiana-interiors-4.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1765,7 +1765,7 @@
         {
          "columns":16,
          "firstgid":24093,
-         "image":"..\/..\/x_Default Template\/maps-resources-master\/tilesets\/Celiana-interiors-1.png",
+         "image":"src\/assets\/Celiana-interiors-1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1778,7 +1778,7 @@
         {
          "columns":8,
          "firstgid":24349,
-         "image":"..\/..\/x_Default Template\/maps-resources-master\/tilesets\/Celiana-grounds-walls-sqaure.png",
+         "image":"src\/assets\/Celiana-grounds-walls-sqaure.png",
          "imageheight":512,
          "imagewidth":256,
          "margin":0,
