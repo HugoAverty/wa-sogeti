@@ -1,11 +1,11 @@
-WA.chat.sendChatMessage('Hello world', 'Mr Robot');
-
 let fact1Popup;
 
 // Open the popup when we enter a given zone
 fact1Popup = WA.room.onEnterZone('fact1Zone', () => {
-    WA.ui.openPopup('popin', 'Hello world!', [{
-        label: "Close",
+    WA.ui.openPopup('popin', 
+    	"Nonobstant la dégradation de l'époque actuelle, il ne faut pas négliger d'uniformiser les principales issues déclinables, pour le futur.", 
+	[{
+        label: "Fermer",
         className: "primary",
         callback: (popup) => {
             // Close the popup when the "Close" button is pressed.
