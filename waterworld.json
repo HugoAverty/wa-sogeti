@@ -1094,6 +1094,12 @@
                  "y":1635
                 }],
          "opacity":1,
+         "properties":[
+                {
+                 "name":"tag",
+                 "type":"string",
+                 "value":"admin"
+                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -2011,12 +2017,12 @@
          "columns":21,
          "firstgid":8317,
          "image":"src\/typo.png",
-         "imageheight":640,
+         "imageheight":672,
          "imagewidth":672,
          "margin":0,
          "name":"typo",
          "spacing":0,
-         "tilecount":420,
+         "tilecount":441,
          "tileheight":32,
          "tilewidth":32
         }],
